@@ -223,7 +223,7 @@ const App = () => {
                 <span> AI™ ComputerVision™ </span>
               </Tooltip>
               and data appropriated from{' '}
-              <Link href='https://poedb.tw/us/Archnemesis_league' target='_blank'>
+              <Link href='https://poedb.tw/kr/Archnemesis_league' target='_blank'>
                 PoEDB
               </Link>{' '}
               to find out what Archnemesis recipes you can make.
