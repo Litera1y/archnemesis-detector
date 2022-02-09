@@ -4,7 +4,7 @@ import fs from 'fs'
 import _ from 'lodash'
 import nodeCanvas from 'canvas'
 
-const SOURCE_URL = 'https://poedb.tw/us/Archnemesis_league#Mods'
+const SOURCE_URL = 'https://poedb.tw/kr/Archnemesis_league#Mods'
 const DESTINATION = 'src/assets/poedb.json'
 const INVENTORY_BACKGROUND_COLOR = '#07071f'
 
